@@ -1,4 +1,4 @@
-# PRCP-1001: Rice Leaf Disease Detection 🌾
+# Rice Leaf Disease Detection 🌾
 
 ## Problem Statement
 Build a machine learning model to classify major rice leaf diseases using image data.
