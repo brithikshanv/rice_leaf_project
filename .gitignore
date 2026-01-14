@@ -1,3 +1,5 @@
+# Ignore dataset and environment files
+rice_leaf_dataset/
 
 # Image dataset folders
 Bacterial leaf blight/
