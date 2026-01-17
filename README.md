@@ -11,7 +11,7 @@ Build a machine learning model to classify major rice leaf diseases using image 
 ## Dataset
 - **Total Images:** 120 JPG images  
 - **Classes (40 images each):**
-  - Leaf smut
+  - Leaf smut 
   - Brown spot
   - Bacterial leaf blight  
 
