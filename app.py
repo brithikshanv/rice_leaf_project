@@ -17,7 +17,7 @@ st.set_page_config(
 # -------------------------------
 @st.cache_resource
 def load_model():
-    return tf.keras.models.load_model("rice_leaf_mobilenetv2.keras")
+    return tf.keras.models.load_model("rice_leaf_mobilenetv2.keras") # type: ignore
 
 model = load_model()
 
